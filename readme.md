@@ -7,7 +7,7 @@ The AI Song Contest is an online project organised by Dutch public broadcaster V
 ## Setup
 
 First, download the dataset. It can be obtained here: https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation
-Second, set up the different paths for the project inside the file *common.py*
+Second, set up the different paths for the project inside the file *common.py* and create the missing directories if needed
 Third, install the dependencies by running:
 
 ```
