@@ -14,6 +14,8 @@ Third, install the dependencies by running:
 pip install -r requirements.txt 
 ```
 
+If you want to use the pre-trained model on a sequence length of 60, it is downloadable here: https://drive.google.com/open?id=1J3C_XbGr64u5RVRT5XwjDZWow7YZBlCx
+
 ## Run the project
 
 The file *main.py* provides an interface to run all the functionalities of the project. The list of available commands is accessible by calling:
