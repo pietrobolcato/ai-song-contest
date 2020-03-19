@@ -1,4 +1,5 @@
 # AI Song Contest - KTH/KMH+Doremir
+![Song image](/repo_images/1.jpg)
 ____
 ## Introduction
 
