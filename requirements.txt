@@ -14,7 +14,7 @@ music21 == 5.7.2
 # pp_ubuntu/common.py: 5
 # pp_ubuntu/evaluation.py: 3
 # pp_ubuntu/preprocess.py: 3
-numpy == 1.18.1
+numpy == 1.22.0
 
 # pp_ubuntu/common.py: 6
 tabulate == 0.8.6
